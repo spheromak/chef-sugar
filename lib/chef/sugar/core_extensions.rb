@@ -16,3 +16,4 @@
 
 require_relative 'core_extensions/array'
 require_relative 'core_extensions/string'
+require_relative 'core_extensions/object'
